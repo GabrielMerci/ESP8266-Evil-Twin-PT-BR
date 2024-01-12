@@ -1,12 +1,7 @@
-# PhiSiFi
-<p align="center">
-<a href="https://github.com/p3tr0s/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
-<img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
-<img title="Support" src="https://img.shields.io/badge/Support-No-red">
-</p>
+# PhiSiFi (PT-BR)
 
 ## Apenas, houve a tradução do captive portal do Evil-Twin, para uma melhor engenharia social
-## Abaixo há alguns detalhes do projeto, mas recomendo que para mais informações, consultem o repositório oficial
+## Abaixo há alguns detalhes do projeto feitos pelo p3tr0s, mas recomendo que para mais informações, consultem o repositório oficial
 
 It uses an ESP8266 to attack a WiFi network using Deauther && || Evil-Twin AP method.
 
