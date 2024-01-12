@@ -5,9 +5,8 @@
 <img title="Support" src="https://img.shields.io/badge/Support-No-red">
 </p>
 
-## A franken baby of [M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
-
-<img src="https://user-images.githubusercontent.com/32341044/202444452-3e7c9ab0-1643-4996-8319-18b8c25544fa.jpg"></img><br>
+## Apenas, houve a tradução do captive portal do Evil-Twin, para uma melhor engenharia social
+## Abaixo há alguns detalhes do projeto, mas recomendo que para mais informações, consultem o repositório oficial
 
 It uses an ESP8266 to attack a WiFi network using Deauther && || Evil-Twin AP method.
 
@@ -39,18 +38,7 @@ Please check the legal regulations in your country before using it.
 - Once a correct password is found, AP will be restarted with default ssid `WiPhi_34732` / `d347h320` and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
    - If you power down / hard reset the gathered info will be lost
  
-# It doesn't work for me:
-- For starters, I don't really care - it's something I did for fun and a POC that worked on my test surface and I do not provide any support for.
-- Follow SpaceHuhn and read his blog https://blog.spacehuhn.com/deauth-attack-not-working to learn about the attack.
-- If you can offer some input on what you think is wrong feel free to let me know and I will try, at some point, to fix it.
-
-## Credits:
+## Créditos:
 * https://github.com/SpacehuhnTech/esp8266_deauther
 * https://github.com/M1z23R/ESP8266-EvilTwin
 * https://github.com/adamff1/ESP8266-Captive-Portal
-
-## License 
-This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Donation / Support / Appreciation
-<a href="https://www.buymeacoffee.com/p3tr0s"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
