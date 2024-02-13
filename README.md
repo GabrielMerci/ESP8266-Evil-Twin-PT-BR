@@ -1,6 +1,5 @@
 # PhiSiFi (PT-BR)
 
-## Apenas, houve a tradução do captive portal do Evil-Twin, para uma melhor engenharia social
 ## Abaixo há alguns detalhes do projeto feitos pelo p3tr0s, mas recomendo que para mais informações, consultem o repositório oficial
 
 It uses an ESP8266 to attack a WiFi network using Deauther && || Evil-Twin AP method.
